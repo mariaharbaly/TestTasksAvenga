@@ -1,0 +1,15 @@
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\bin\Debug\net6.0\TestTask2.exe
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\bin\Debug\net6.0\TestTask2.deps.json
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\bin\Debug\net6.0\TestTask2.runtimeconfig.json
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\bin\Debug\net6.0\TestTask2.dll
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\bin\Debug\net6.0\TestTask2.pdb
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\TestTask2.csproj.AssemblyReference.cache
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\TestTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\TestTask2.AssemblyInfoInputs.cache
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\TestTask2.AssemblyInfo.cs
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\TestTask2.csproj.CoreCompileInputs.cache
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\TestTask2.dll
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\refint\TestTask2.dll
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\TestTask2.pdb
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\TestTask2.genruntimeconfig.cache
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask2\obj\Debug\net6.0\ref\TestTask2.dll

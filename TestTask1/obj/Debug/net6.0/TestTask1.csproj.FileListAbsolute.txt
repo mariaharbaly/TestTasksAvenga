@@ -1,0 +1,17 @@
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\bin\Debug\net6.0\TestTask1.exe
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\bin\Debug\net6.0\TestTask1.deps.json
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\bin\Debug\net6.0\TestTask1.runtimeconfig.json
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\bin\Debug\net6.0\TestTask1.dll
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\bin\Debug\net6.0\TestTask1.pdb
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.csproj.AssemblyReference.cache
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.AssemblyInfoInputs.cache
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.AssemblyInfo.cs
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.csproj.CoreCompileInputs.cache
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.dll
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\refint\TestTask1.dll
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.pdb
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.genruntimeconfig.cache
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\ref\TestTask1.dll
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\garba\RiderProjects\TestTasksAvenga\TestTask1\obj\Debug\net6.0\TestTask1.csproj.CopyComplete
